@@ -1,0 +1,8 @@
+C:\Users\osama\Desktop\XNA_Game\Animation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\osama\Desktop\XNA_Game\Animation\bin\x86\Debug\Animation.dll
+C:\Users\osama\Desktop\XNA_Game\Animation\bin\x86\Debug\Animation.pdb
+C:\Users\osama\Desktop\XNA_Game\Animation\obj\x86\Debug\Animation.csprojResolveAssemblyReference.cache
+C:\Users\osama\Desktop\XNA_Game\Animation\obj\x86\Debug\Animation.dll
+C:\Users\osama\Desktop\XNA_Game\Animation\obj\x86\Debug\Animation.pdb
+C:\Users\osama\Desktop\XNA_Game\Animation\bin\x86\Debug\Engine.dll
+C:\Users\osama\Desktop\XNA_Game\Animation\bin\x86\Debug\Engine.pdb

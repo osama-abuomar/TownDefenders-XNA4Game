@@ -1,0 +1,5 @@
+C:\Users\osama\Desktop\XNA_Game\TileEngine_iso\bin\x86\Debug\TileEngine_iso.dll
+C:\Users\osama\Desktop\XNA_Game\TileEngine_iso\bin\x86\Debug\TileEngine_iso.pdb
+C:\Users\osama\Desktop\XNA_Game\TileEngine_iso\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\osama\Desktop\XNA_Game\TileEngine_iso\obj\x86\Debug\TileEngine_iso.dll
+C:\Users\osama\Desktop\XNA_Game\TileEngine_iso\obj\x86\Debug\TileEngine_iso.pdb

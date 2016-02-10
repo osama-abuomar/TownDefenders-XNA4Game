@@ -1,0 +1,2 @@
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_GameContent\obj\x86\Debug\XNA_GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_GameContent\obj\x86\Debug\XNA_GameContent.contentprojResolveAssemblyReference.cache

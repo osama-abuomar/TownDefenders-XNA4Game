@@ -1,0 +1,5 @@
+C:\Users\osama\Desktop\XNA_Game\Utilities\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\osama\Desktop\XNA_Game\Utilities\bin\x86\Debug\Utilities.dll
+C:\Users\osama\Desktop\XNA_Game\Utilities\bin\x86\Debug\Utilities.pdb
+C:\Users\osama\Desktop\XNA_Game\Utilities\obj\x86\Debug\Utilities.dll
+C:\Users\osama\Desktop\XNA_Game\Utilities\obj\x86\Debug\Utilities.pdb

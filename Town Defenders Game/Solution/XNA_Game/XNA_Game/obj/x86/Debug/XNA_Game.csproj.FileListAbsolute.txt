@@ -1,0 +1,178 @@
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\XNA_Game.csprojResolveAssemblyReference.cache
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\XNA_Game.exe
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\XNA_Game.pdb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\XNA_Game.exe
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\XNA_Game.pdb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Fonts\sf1.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\hilight.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\mousemap.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\terrain_imageset.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\slopemaps.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Engine.dll
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Engine.pdb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Farm\farm_244x125.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house_small_2.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\camp.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\residence.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house2.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house3.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house4.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\smoke.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\grass.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree1.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree10.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree11.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree12.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree13.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree14.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree15.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree16.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree17.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree18.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree19.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree2.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree20.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree21.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree22.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree23.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree24.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree25.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree3.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree4.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree5.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree6.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree7.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree8.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree9.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\shadow.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud1.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud1_shadow.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud2.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud2_shadow.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud3.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud3_shadow.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\smoke_animation2.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\char_select.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\selectionLines\camp_selection_line.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\selectionLines\residence_selection_line.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Fonts\sf1.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Fonts\Pericles6.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\T_Vlad_Sword_Walking_48x48.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\hilight.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\mousemap.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\terrain_imageset.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\slopemaps.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Backgrounds\titlescreen.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\rightarrowUp.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\StopBar.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\residence.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house_small_2.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\camp.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Farm\farm_244x125.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house2.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house3.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Buildings\house4.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\smoke.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\ImageSets\grass.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree1.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree10.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree11.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree12.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree13.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree14.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree15.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree16.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree17.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree18.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree19.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree2.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree20.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree21.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree22.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree23.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree24.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree25.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree3.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree4.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree5.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree6.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree7.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree8.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\tree9.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Trees\shadow.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud1.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud1_shadow.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud2.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud2_shadow.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud3.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Clouds\cloud3_shadow.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\smoke_animation2.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\char_select.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\selectionLines\camp_selection_line.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\selectionLines\residence_selection_line.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\archer.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\Music\bg_music_1.xnb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\Music\bg_music_1.wma
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\XNA_Game.exe
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\XNA_Game.pdb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Engine.dll
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Engine.pdb
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\XNA_Game.csprojResolveAssemblyReference.cache
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\XNA_Game.exe
+C:\Users\osama\Desktop\Desktop 1\XNA_Game\XNA_Game\XNA_Game\obj\x86\Debug\XNA_Game.pdb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Backgrounds\bg.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Fonts\BlackAdder.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\left_arrow.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\right_arrow.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\right_indexer.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\left_indexer.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\SoundEffects\focus.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\SoundEffects\select.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\Music\Gameplay.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\Music\Intro.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\Music\Gameplay.wma
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\Music\Intro.wma
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Backgrounds\title_screen_bg.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\seperator.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Fonts\gaslon.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Backgrounds\bg2.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Backgrounds\dialog.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\selectionLines\farm_selection_line.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\horseman_select.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\SoundEffects\horse1.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\SoundEffects\horse2.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Sounds\SoundEffects\horse_running.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\gameplay_border.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\farmer_ss.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\selectionLines\stable_selection_line.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\StatusLine\green.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\StatusLine\red.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\miscellaneous\StatusLine\yellow.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\green_knight_ss.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\horseman_ss.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Textures\Characters\swordsman_ss.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\button_border_48.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\button_border_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\button_press_48.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\button_press_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\close_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\close_button_press.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\farmer_create_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\horseman_create_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\house_create_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\knight_create_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\stable_create_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\swordsman_create_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\trainingcamp_create_button.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Fonts\dock.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\96\farmer_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\96\horseman_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\96\house_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\96\knight_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\96\stable_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\96\swordsman_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\GUI\ImageButton\96\trainingcamp_96.xnb
+C:\Users\osama\Desktop\XNA_Game\XNA_Game\XNA_Game\bin\x86\Debug\Content\Fonts\statusbar.xnb

@@ -1,0 +1,3 @@
+﻿camera w, h must be less than map w, h
+
+all buildings and trees must be centered-bottom

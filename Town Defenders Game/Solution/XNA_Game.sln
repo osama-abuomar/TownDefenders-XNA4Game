@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA_Game", "XNA_Game\XNA_Game\XNA_Game.csproj", "{12EF1E8D-7589-44C5-8321-EB24E3AED72F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNA_GameContent", "XNA_Game\XNA_GameContent\XNA_GameContent.contentproj", "{6CDB867C-5382-4850-881F-0B34EDDF34E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "TileEngine_iso\Engine.csproj", "{0DEA9A2C-F256-47CF-86ED-2E759D369F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EF1E8D-7589-44C5-8321-EB24E3AED72F}.Debug|x86.ActiveCfg = Debug|x86
+		{12EF1E8D-7589-44C5-8321-EB24E3AED72F}.Debug|x86.Build.0 = Debug|x86
+		{12EF1E8D-7589-44C5-8321-EB24E3AED72F}.Release|x86.ActiveCfg = Release|x86
+		{12EF1E8D-7589-44C5-8321-EB24E3AED72F}.Release|x86.Build.0 = Release|x86
+		{6CDB867C-5382-4850-881F-0B34EDDF34E7}.Debug|x86.ActiveCfg = Debug|x86
+		{6CDB867C-5382-4850-881F-0B34EDDF34E7}.Release|x86.ActiveCfg = Release|x86
+		{0DEA9A2C-F256-47CF-86ED-2E759D369F8A}.Debug|x86.ActiveCfg = Debug|x86
+		{0DEA9A2C-F256-47CF-86ED-2E759D369F8A}.Debug|x86.Build.0 = Debug|x86
+		{0DEA9A2C-F256-47CF-86ED-2E759D369F8A}.Release|x86.ActiveCfg = Release|x86
+		{0DEA9A2C-F256-47CF-86ED-2E759D369F8A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

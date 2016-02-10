@@ -1,0 +1,12 @@
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Components.dll
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Components.pdb
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Animation.dll
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Engine.dll
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Utilities.dll
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Animation.pdb
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Engine.pdb
+C:\Users\osama\Desktop\XNA_Game\Components\bin\x86\Debug\Utilities.pdb
+C:\Users\osama\Desktop\XNA_Game\Components\obj\x86\Debug\Components.csprojResolveAssemblyReference.cache
+C:\Users\osama\Desktop\XNA_Game\Components\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\osama\Desktop\XNA_Game\Components\obj\x86\Debug\Components.dll
+C:\Users\osama\Desktop\XNA_Game\Components\obj\x86\Debug\Components.pdb
